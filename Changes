@@ -1,0 +1,5 @@
+Revision history for Perl extension Module::AutoLoad.
+
+0.01  Mon Sep  5 14:00 2011
+ - Initial release
+ - Created by h2xs -X Module::AutoLoad
